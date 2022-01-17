@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly 1:1 C17A Global Master III
+* source:	https://sketchfab.com/3d-models/lowpoly-11-c17a-global-master-iii-5a8a1a57e54c495e8966087d0197f8e5
+* author:	Yi Tsung Lee (https://sketchfab.com/WTigerTw)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly 1:1 C17A Global Master III" (https://sketchfab.com/3d-models/lowpoly-11-c17a-global-master-iii-5a8a1a57e54c495e8966087d0197f8e5) by Yi Tsung Lee (https://sketchfab.com/WTigerTw) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
